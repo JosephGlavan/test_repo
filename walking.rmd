@@ -2,9 +2,7 @@
 title: "walking"
 author: "Joseph Glavan"
 date: "2026-10-19"
-output:
-    html_document:
-        keep_md: true
+output: github_document
 ---
 
 <p>This is a test.
